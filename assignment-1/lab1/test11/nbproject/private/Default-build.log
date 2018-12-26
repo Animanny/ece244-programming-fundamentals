@@ -1,0 +1,3 @@
+g++ -std=c++11 -Wall -O0 -g test11.cpp -o test11
+cc1plus: error: unrecognized command line option "-std=c++11"
+gmake: *** [test11] Error 1

@@ -1,0 +1,10 @@
+called: g++
+	/u/a/yehchenh/ece244/assignment-1/tutorials/examples/fgx
+	g++
+	-Wall
+	-g
+	-O0
+	fgx.cpp
+	-o
+	fgx
+

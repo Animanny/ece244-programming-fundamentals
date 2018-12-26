@@ -1,0 +1,4 @@
+g++ -Wall -g -O0 fgx.cpp -o fgx
+fgx.cpp: In function ‘int main(int, char**)’:
+fgx.cpp:26: error: ‘coot’ was not declared in this scope
+gmake: *** [fgx] Error 1
